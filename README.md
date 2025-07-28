@@ -21,5 +21,4 @@
   <a href="https://www.linkedin.com/in/adryel-almeida-052365321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
- 
-![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)
+
